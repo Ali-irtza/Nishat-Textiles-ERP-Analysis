@@ -40,5 +40,10 @@ Just follow the document to run the project
 
 It will ask for the Gmail and password on which i had made the account 
 Gmail: aliirtza738@gmail.com
-Pass: i can't tell you that here sorry 
+Pass: .......
+
+
+The file was created only to remind me what i did on this project so i didnt write it professionally or something
+
+**NOTE: if you are someone who is interested in this project i have added a Report on Nishat Textiles and also the Requirements in the project** 
 
